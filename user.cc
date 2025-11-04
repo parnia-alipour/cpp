@@ -2,18 +2,16 @@
 using namespace std;
 
 int main(){
-double ln,n
-
-cout<<'Please enter your name:';
-
+string n,ln;
+             
+cout<<"Please enter your name:";
 cin>>n;
 
-cout<<'Please enter your last_name:';
+cout<<"Please enter your last_name:";
+cin>>ln;
 
-cin>>ln
 
-
-cout<<n , ln;
+cout<<"your name: "<<n<< " your last name:"<<ln;
 return 0;
 
 }
