@@ -13,4 +13,5 @@ In `1998`, the first official version of it was released by ISO under the name C
 
 **What was Stroustrup's purpose in creating the C++ programming language⁉️**
 
+Click on the picture >>>>
 [![Watch the video](https://github.com/parnia-alipour/cpp/blob/master/Screenshot%202025-11-04%20194648.png?raw=true)](https://www.youtube.com/watch?v=JBjjnqG0BP8)
