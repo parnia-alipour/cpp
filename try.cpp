@@ -12,7 +12,7 @@ if (b==0) {
     cout<<"no"<<endl;
 
 }
-else if (a&b==0) {
+else if (a%b==0) {
     cout<<"yes"<<endl;
 
 }
