@@ -1,3 +1,14 @@
-//
-// Created by LOQ on 11/17/2025.
-//
+#include <iostream>
+using namespace std;
+
+int factorial(int n) {
+    if (n==0) {
+        return 1;
+
+    }
+
+    else {
+        return n*factorial(n-1);
+    }
+    return 0;
+}
