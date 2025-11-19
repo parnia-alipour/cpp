@@ -3,7 +3,7 @@ using namespace std;
 void fun(int a, int& b,const int &c) {
     a+=c;
     b+=c;
-    cout << a <<","<< b <<","<< c<<endl;
+    cout << a <<","<< b <<","<< c<<endl;//2,3,4
 
 }
 int main() {
