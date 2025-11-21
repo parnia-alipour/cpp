@@ -3,7 +3,6 @@
 using namespace std;
 
 void user(){
-    int age;
         int a;
          string b,
           c;
