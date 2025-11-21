@@ -1,12 +1,22 @@
 #include <iostream>
+#include<string>
 using namespace std;
 
-int user(int a,char b, char c) {
-    cout<<"enter your age"<<endl;
-    cin>>a;
-    cout<<"enter your name"<<endl;
-    cin>>b;
-    cout<<"enter your last_name"<<endl;
-    cin>>c;
-    cout<<user;
+void user(){
+    int age;
+        int a;
+         string b,
+          c;
+         cout<<"enter your age:";
+         cin>>a;
+         cout<<"enter your name:";
+         cin>>b;
+         cout<<"enter your last_name:";
+         cin>>c;
+         cout<<"name:"<<b<<","<< "last_name"<<","<<c<<","<<"age"<<a<<endl;
+
+     }
+int main(){
+    user();
+    return 0;
 }
